@@ -8,7 +8,7 @@
 
 아래는 Source와 20k Iteration 결과를 비교한 표입니다.
 
-| ![Source](data/Dfaker/source.gif) | ![20k](data/Dfaker/20k.gif) | ![40k](data/Dfaker/40k.gif) | ![60k](data/Dfaker/60k.gif) | ![80k](data/Dfaker/80k.gif) |
+| ![Source](images/Dfaker/source.gif) | ![20k](images/Dfaker/20k.gif) | ![40k](images/Dfaker/40k.gif) | ![60k](images/Dfaker/60k.gif) | ![80k](images/Dfaker/80k.gif) |
 |:----------------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
 |               Source               |        20k Iteration        |        40k Iteration        |        60k Iteration        |        80k Iteration        |
 
