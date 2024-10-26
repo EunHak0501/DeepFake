@@ -1,6 +1,8 @@
-# DeepFake Results Comparison
+### Overview
+두 개의 딥페이크 모델, **Dfaker**와 **Dlight**, 각각의 iteration 단계에 따른 변환 결과를 비교
 
-이 프로젝트에서는 다양한 iteration에서 생성된 딥페이크 결과를 비교합니다. 아래는 Source부터 100k iteration까지의 결과를 한 GIF로 합친 결과입니다.
+실험에서는 원본 영상의 배우 **고윤정**의 얼굴을 가수 **아이유**의 얼굴로 변환
+
 
 
 
