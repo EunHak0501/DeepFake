@@ -8,19 +8,12 @@
 
 Dfaker 모델 결과
 
-| ![Source](images/Dfaker/source.gif) | ![20k](images/Dfaker/20k.gif) | ![40k](images/Dfaker/40k.gif) | ![60k](images/Dfaker/60k.gif) | ![80k](images/Dfaker/80k.gif) |
-|:-----------------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-|               Source                |        20k Iteration        |        40k Iteration        |        60k Iteration        |        80k Iteration        |
+![Source](images/Dfaker/Dfaker.gif)
 
 
 Dlight 모델 결과
 
-| ![Source](images/Dlight/source.gif) | ![20k](images/Dlight/20k.gif) | ![30k](images/Dlight/30k.gif) | ![40k](images/Dlight/40k.gif) | ![60k](images/Dlight/60k.gif) | ![80k](images/Dlight/80k.gif) |
-|:-----------------------------------:|:---------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
-|               Source                |        20k Iteration        |         30k Iteration         |         40k Iteration         |         60k Iteration         |         80k Iteration         |
-
-
-
+![Source](images/Dlight/Dlight.gif)
 
 
 
